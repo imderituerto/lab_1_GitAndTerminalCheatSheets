@@ -1,0 +1,30 @@
+# Git cheat sheet
+
+## Commands to create a project on laptop and upload code to GitHub (repository):
+**git init** - initialises git in a chosen directory (i.e. creates a repository)
+
+**git add** - stages to record changes: “git add .”
+
+**git commit** - saves a commit (record a milestone): ‘git commit -m “name”’
+
+**git status** - checks status of commits (if any)
+
+**git log** - prints time and author of commits
+
+**git push** - sends/imports code/commits to GitHub (?)
+
+**git remote** - links remote file to GitHub via SSH (?)
+
+**git clone** - creates a copy of local Git files from GitHub to remote directory on laptop (?)
+	
+**git pull** - downloads changes made to Git to remote platform (?)
+
+## Other “git” commands:
+``
+	•  git revert
+	•	git reset
+	•	git rebase
+``
+
+## Other terminal commands:
+**code .** - Input in Terminal, opens the chosen file in VS Code

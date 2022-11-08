@@ -49,3 +49,5 @@
 	•	Clear work space
 	•	“clear”
 	•	control + L
+
+adds a list of the commands for Terminal and an explanation of what each one does
